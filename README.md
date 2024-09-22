@@ -1,7 +1,5 @@
 # Cell Counter
- Scripts for finding color thresholds and counting cells for biological applications.
-
-### What does this program do?
+ Scripts for finding color thresholds and counting cells for biological applications. Video demo: https://www.loom.com/share/cf338891272f4e9386f1e04e51b2808c
 
 
 ### Instalation:
